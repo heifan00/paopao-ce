@@ -2,7 +2,7 @@
 .idea
 __debug_bin
 !*.example
-/config.yaml
+#/config.yaml
 *.log
 /paopao-ce
 /paopao
